@@ -1,5 +1,5 @@
 {
-  "name": "bisweb/oxideshop-metapackage-ce",
+  "name": "oxid-esales/oxideshop-metapackage-ce",
   "description": "This is OXID eShop compilation metapackage without Smarty Themes and without preinstalled Third-Party Modules.",
   "type": "project",
   "keywords": ["oxidEshop", "metapackage", "bisweb"],
