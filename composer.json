@@ -45,7 +45,7 @@
     "symfony/dependency-injection": "v3.4.39",
     "symfony/event-dispatcher": "v3.4.39",
     "symfony/expression-language": "v3.4.39",
-    "symfony/filesystem": "v3.4.39",
+    "symfony/filesystem": "v5.1.2",
     "symfony/finder": "v3.4.39",
     "symfony/lock": "v3.4.39",
     "symfony/polyfill-ctype": "v1.15.0",
