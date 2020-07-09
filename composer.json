@@ -17,7 +17,7 @@
     "doctrine/collections": "1.6.4",
     "doctrine/dbal": "v2.9.3|2.10.2",
     "doctrine/event-manager": "1.1.0",
-    "doctrine/migrations": "v1.8.1",
+    "doctrine/migrations": "v3.0.1",
     "justinrainbow/json-schema": "5.2.9",
     "monolog/monolog": "1.25.3",
     "ocramius/package-versions": "1.4.2|1.5.1|1.8.0",
