@@ -39,7 +39,7 @@
     "seld/phar-utils": "1.1.0",
     "symfony/cache": "v4.4.7",
     "symfony/cache-contracts": "v1.1.7|v2.0.1",
-    "symfony/config": "v3.4.39",
+    "symfony/config": "v5.1.2",
     "symfony/console": "v3.4.39",
     "symfony/debug": "v4.4.7",
     "symfony/dependency-injection": "v3.4.39",
