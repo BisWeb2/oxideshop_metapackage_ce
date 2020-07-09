@@ -5,7 +5,8 @@
   "keywords": ["oxidEshop", "metapackage", "bisweb", "beta"],
   "homepage": "https://bisweb.me",
   "license": "GPL-3.0-only",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "composer/ca-bundle": "1.2.7",
     "composer/composer": "1.10.5",
